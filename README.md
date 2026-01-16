@@ -29,5 +29,6 @@ Atualmente possuo conhecimentos básicos em desenvolvimento de aplicações e ba
 ---
 
 ## 📞 Contato
-📱 **WhatsApp:** (61) 99563-4512  
-📸 **Instagram:** @__dudasousa__
+📱 **WhatsApp:** (https://wa.me/5561995634512)  
+📸 **Instagram:** (https://www.instagram.com/__dudasousa__?igsh=b2VianV1Z2R5cjAz)
+
