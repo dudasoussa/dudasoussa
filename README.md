@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Maria Eduarda Sousa de Morais
 
-<!--
-**dudasoussa/dudasoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Tecnologia** | 💻 **Desenvolvedora em formação** | 🚀 **Sempre em busca de novos aprendizados**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante da área de tecnologia e estou iniciando minha jornada no desenvolvimento de sistemas. Tenho interesse em aprimorar minha lógica de programação, aprender novas linguagens e evoluir por meio da prática e de projetos pessoais. Busco crescer profissionalmente, adquirindo experiência e desenvolvendo soluções eficientes e bem estruturadas.
+
+Atualmente possuo conhecimentos básicos em desenvolvimento de aplicações e banco de dados, e sigo estudando para ampliar minhas habilidades técnicas.
+
+---
+
+## ⚙️ Linguagens de Programação
+- 💜 **C#**
+
+---
+
+## 🌐 Tecnologias Web
+- 🧡 **HTML5**
+- 💙 **CSS3**
+
+---
+
+## 🛠 Banco de Dados
+- 🗄 **MySQL**
+
+---
+
+## 📞 Contato
+📱 **WhatsApp:** (61) 99563-4512  
+📸 **Instagram:** @__dudasousa__
