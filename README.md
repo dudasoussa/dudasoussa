@@ -9,6 +9,7 @@
 Sou estudante da área de tecnologia e estou iniciando minha jornada no desenvolvimento de sistemas. Tenho interesse em aprimorar minha lógica de programação, aprender novas linguagens e evoluir por meio da prática e de projetos pessoais. Busco crescer profissionalmente, adquirindo experiência e desenvolvendo soluções eficientes e bem estruturadas.
 
 Atualmente possuo conhecimentos básicos em desenvolvimento de aplicações e banco de dados, e sigo estudando para ampliar minhas habilidades técnicas.
+Acesse meu portfolio https://dudasoussa.github.io/portfolio/
 
 ---
 
