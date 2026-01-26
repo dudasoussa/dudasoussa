@@ -28,7 +28,10 @@ Acesse meu portfolio https://dudasoussa.github.io/portfolio/
 - 🗄 **MySQL**
 
 ---
+## 🔍Confira: 
+-  https://dudasoussa.github.io/LOJA/
 
+---
 ## 📞 Contato
 📱 **WhatsApp:** (https://wa.me/5561995634512)  
 📸 **Instagram:** (https://www.instagram.com/__dudasousa__?igsh=b2VianV1Z2R5cjAz)
